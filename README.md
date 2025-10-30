@@ -104,7 +104,7 @@ Projeye katkıda bulunmak istiyorsanız:
 
 ---
 
-## 👤 Developer
+## 👤 Geliştirici
 
 **Bektaş Sarı**<br>
 PhD in Advertising, AI + Creativity researcher<br>
